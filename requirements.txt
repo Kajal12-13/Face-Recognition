@@ -1,7 +1,5 @@
-| Package              | Why it is needed                                      |
-| -------------------- | ----------------------------------------------------- |
-| **opencv-python**    | For webcam image capture + drawing bounding boxes     |
-| **numpy**            | Needed for image array handling                       |
-| **face_recognition** | The main library for face detection + encoding        |
-| **flask**            | For the simple web demo (`app.py`)                    |
-| **pillow**           | Required for image upload processing in the Flask app |
+opencv-python
+numpy
+face_recognition
+flask
+pillow
