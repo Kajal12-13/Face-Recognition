@@ -3,3 +3,7 @@ numpy
 face_recognition
 flask
 pillow
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5e9a173bf4f30c05d4c5243ab0e24c5ae33469ae
